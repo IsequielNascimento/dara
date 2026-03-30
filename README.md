@@ -1,6 +1,5 @@
 # Jogo DARA — Python Modular MVC com Dois Sockets TCP
 
-```markdown
 **Programação Paralela e Distribuída — IFCE 2026.1**
 
 ---
